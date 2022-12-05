@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Metamax influencer marketing.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project made by react.js [Metamax](https://dainty-salamander-059550.netlify.app/).
 
 ## Available Scripts
 
-In the project directory, you can run:
+1. In this project directory i used Html, Css, React.js. 
+2. It is a Influencer Marketing Agency.
+3. In this website you can hire social media influencers to marketing your websites product  etc.
 
 ### `npm start`
 
